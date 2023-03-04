@@ -1,5 +1,2 @@
-print("Hello")
-
-print("Test")
-
-print("Branch Test")
+for i in range(10):
+    print("♥" * i)
